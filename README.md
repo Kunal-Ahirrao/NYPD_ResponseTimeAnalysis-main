@@ -3,12 +3,6 @@
 #### **Project Overview**
 This project aims to enhance public safety by analyzing **NYPD emergency call data** and **weather conditions** to predict crime hotspots and optimize response times. By leveraging **machine learning models**, law enforcement agencies can proactively allocate resources to high-risk areas, improving response efficiency and reducing crime impact.
 
-#### **Team Members**
-- Heet Gala
-- Hemanth Chowdary
-- Mansi Gopani
-- Kunal Ahhirao
-
 ---
 
 ## **Table of Contents**
